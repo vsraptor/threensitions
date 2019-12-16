@@ -10,4 +10,4 @@ It is sort of Higher order Markov chain where we have only 3 Super states : PAST
   -  The PRESENT|NOW (n) super-state is the fulcrum of the system. We use it as mechanism to lower the amount of information we need to store for the model.
   -  The FUTURE (f) super-state is the prediction and dependent only on state n.
 
-You can read the documentation [Threensition](http://ifni.co/threensition.html) or the docs directory of this repository.
+You can read the documentation [Threensition](http://igrok.site/threensition.html) or the docs directory of this repository.
